@@ -1,6 +1,8 @@
 # Data Engineering Zoomcamp
 
-
+__________________________________________________________________________
+Learning data engineering for a personal project to support a non profit
+__________________________________________________________________________
 <p align="center">
   <a href="https://airtable.com/shr6oVXeQvSI5HuWD"><img src="https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png" height="50" /></a>
 </p>
